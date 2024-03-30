@@ -20,7 +20,7 @@ function Map() {
   const { cities } = useCities();
   const [mapPosition, setMapPosition] = useState([40, 0]);
   const {
-    isLoading: isLoadingPosition, //Umbenennung um Verwirrung zu vermeiden
+    isLoading: isLoadingPosition,
     position: geolocationPosition,
     getPosition,
   } = useGeolocation();
