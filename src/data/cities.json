@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "de8d",
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-15T08:29:31.231Z",
+      "notes": "",
+      "position": {
+        "lat": "41.623655390686395",
+        "lng": "-0.8789062500000001"
+      }
+    },
+    {
+      "id": "aa09",
+      "cityName": "Mios",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-15T08:30:16.679Z",
+      "notes": "",
+      "position": {
+        "lat": "44.68427737181225",
+        "lng": "-0.81298828125"
+      }
+    },
+    {
+      "id": "06ff",
+      "cityName": "Halle (Saale)",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-03-15T10:05:02.330Z",
+      "notes": "war schön",
+      "position": {
+        "lat": "51.44716034698012",
+        "lng": "11.991577148437502"
+      }
+    },
+    {
+      "id": "5512",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-29T16:09:54.295Z",
+      "notes": "Super",
+      "position": {
+        "lat": "40.396764305572056",
+        "lng": "-3.7133789062500004"
+      }
+    }
+  ]
+}
