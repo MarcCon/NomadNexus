@@ -1,4 +1,4 @@
-<h2>Dieses Demo-Projekt illustriert die Erstellung einer interaktiven Reisekarten-Anwendung, die es Benutzern ermöglicht, Städte auf einer Karte zu erkunden und zu verwalten.</h2>
+<h4>Dieses Demo-Projekt illustriert die Erstellung einer interaktiven Reisekarten-Anwendung, die es Benutzern ermöglicht, Städte auf einer Karte zu erkunden und zu verwalten.</h2>
 
 <h3>Hauptmerkmale:</h3>
 
