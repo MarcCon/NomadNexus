@@ -6,4 +6,4 @@ Interaktive Karte: Implementiert mit Leaflet, erlaubt diese Karte den Nutzern, S
 API-Datenabfrage: Die Anwendung simuliert das Fetching von Daten und bietet vollständige CRUD-Operationen durch die Nutzung eines Fake JSON Servers.
 Zustandsmanagement: Nutzt React's Context API und den Reducer-Hook, um einen zentralisierten, globalen Zustand für die Anwendung zu schaffen.
 
-<img src="images/ReadMEFoto.png" alt="Bild des Projekts" width="200" height="200">
+<img src="images/ReadMEFoto.png" alt="Bild des Projekts" width="400" height="auto">
