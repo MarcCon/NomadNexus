@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "id": "de8d",
-      "cityName": "Zaragoza",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-15T08:29:31.231Z",
-      "notes": "",
-      "position": {
-        "lat": "41.623655390686395",
-        "lng": "-0.8789062500000001"
-      }
-    },
-    {
       "id": "aa09",
       "cityName": "Mios",
       "country": "France",
@@ -25,18 +13,6 @@
       }
     },
     {
-      "id": "06ff",
-      "cityName": "Halle (Saale)",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2024-03-15T10:05:02.330Z",
-      "notes": "war schön",
-      "position": {
-        "lat": "51.44716034698012",
-        "lng": "11.991577148437502"
-      }
-    },
-    {
       "id": "5512",
       "cityName": "Madrid",
       "country": "Spain",
@@ -46,6 +22,30 @@
       "position": {
         "lat": "40.396764305572056",
         "lng": "-3.7133789062500004"
+      }
+    },
+    {
+      "id": "cf0f",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-04-07T13:54:31.393Z",
+      "notes": "",
+      "position": {
+        "lat": "52.522905940278065",
+        "lng": "13.381347656250002"
+      }
+    },
+    {
+      "id": "3cc8",
+      "cityName": "Leipzig",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-04-07T13:54:38.697Z",
+      "notes": "",
+      "position": {
+        "lat": "51.37178037591739",
+        "lng": "12.370605468750002"
       }
     }
   ]
