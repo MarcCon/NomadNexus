@@ -9,5 +9,5 @@
 </ul>
 
 <p align="center">
-  <img src="images/ReadMEFoto.png" alt="Bild des Projekts" width="500">
+  <img src="images/ReadMEFoto.png" alt="Bild des Projekts" width="700">
 </p>
